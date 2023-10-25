@@ -1,7 +1,8 @@
 {
   "name": "front-end",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://abhishekv9.github.io/Parshva-Frontend",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
