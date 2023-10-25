@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Parshva-Frontend/static/css/main.52d9861f.css",
-    "main.js": "/Parshva-Frontend/static/js/main.984ac486.js",
+    "main.js": "/Parshva-Frontend/static/js/main.b7b8d748.js",
     "index.html": "/Parshva-Frontend/index.html",
     "main.52d9861f.css.map": "/Parshva-Frontend/static/css/main.52d9861f.css.map",
-    "main.984ac486.js.map": "/Parshva-Frontend/static/js/main.984ac486.js.map"
+    "main.b7b8d748.js.map": "/Parshva-Frontend/static/js/main.b7b8d748.js.map"
   },
   "entrypoints": [
     "static/css/main.52d9861f.css",
-    "static/js/main.984ac486.js"
+    "static/js/main.b7b8d748.js"
   ]
 }
