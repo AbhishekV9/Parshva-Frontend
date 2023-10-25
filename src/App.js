@@ -7,7 +7,7 @@ import Layout from "./components/layout";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="https://AbhishekV9.github.io/ParshvaFrontend">
         <Routes>
           <Route
             element={
